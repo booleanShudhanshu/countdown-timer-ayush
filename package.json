@@ -1,0 +1,20 @@
+{
+  "name": "countdown-timer-ayush",
+  "version": "1.0.0",
+  "description": "A React library used to countdown time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/booleanShudhanshu/countdown-timer-ayush.git"
+  },
+  "keywords": [],
+  "author": "shudhanshu raj <shudhanshuraj@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/booleanShudhanshu/countdown-timer-ayush.git#readme",
+  "devDependencies": {
+    "react": "^16.3.2"
+  }
+}
